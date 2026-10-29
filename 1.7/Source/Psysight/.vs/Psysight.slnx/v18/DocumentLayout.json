@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\utilities\\psysightutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:utilities\\psysightutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\patchoperations\\patchoperation_settingactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:patchoperations\\patchoperation_settingactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\hediffs\\hediff_psysight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:hediffs\\hediff_psysight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\obj\\Debug\\Psysight.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\Psysight.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\psysightmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:psysightmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\harmony\\patch_pawn_healthtracker_checkforstatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:harmony\\patch_pawn_healthtracker_checkforstatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\harmony\\patch_jobdriver_blind_blind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:harmony\\patch_jobdriver_blind_blind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\harmony\\patch_hediffset_adddirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:harmony\\patch_hediffset_adddirect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\harmony\\patch_hediff_psylink_postadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:harmony\\patch_hediff_psylink_postadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\harmony\\patch_hediff_psylink_changelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:harmony\\patch_hediff_psylink_changelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\psysight\\1.7\\source\\psysight\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9F1FA9-BB47-B6BA-47A2-51C8A2870FCF}|Psysight.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PsysightUtil.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Utilities\\PsysightUtil.cs",
+              "RelativeDocumentMoniker": "Utilities\\PsysightUtil.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Utilities\\PsysightUtil.cs",
+              "RelativeToolTip": "Utilities\\PsysightUtil.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwFQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:07:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatchOperation_SettingActive.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\PatchOperations\\PatchOperation_SettingActive.cs",
+              "RelativeDocumentMoniker": "PatchOperations\\PatchOperation_SettingActive.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\PatchOperations\\PatchOperation_SettingActive.cs",
+              "RelativeToolTip": "PatchOperations\\PatchOperation_SettingActive.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:06:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hediff_Psysight.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Hediffs\\Hediff_Psysight.cs",
+              "RelativeDocumentMoniker": "Hediffs\\Hediff_Psysight.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Hediffs\\Hediff_Psysight.cs",
+              "RelativeToolTip": "Hediffs\\Hediff_Psysight.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:06:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Psysight.AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\obj\\Debug\\Psysight.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\Psysight.AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\obj\\Debug\\Psysight.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\Psysight.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:06:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PsysightMod.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\PsysightMod.cs",
+              "RelativeDocumentMoniker": "PsysightMod.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\PsysightMod.cs",
+              "RelativeToolTip": "PsysightMod.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:49.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patch_Pawn_HealthTracker_CheckForStateChange.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Pawn_HealthTracker_CheckForStateChange.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_Pawn_HealthTracker_CheckForStateChange.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Pawn_HealthTracker_CheckForStateChange.cs",
+              "RelativeToolTip": "Harmony\\Patch_Pawn_HealthTracker_CheckForStateChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patch_JobDriver_Blind_Blind.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_JobDriver_Blind_Blind.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_JobDriver_Blind_Blind.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_JobDriver_Blind_Blind.cs",
+              "RelativeToolTip": "Harmony\\Patch_JobDriver_Blind_Blind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patch_HediffSet_AddDirect.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_HediffSet_AddDirect.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_HediffSet_AddDirect.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_HediffSet_AddDirect.cs",
+              "RelativeToolTip": "Harmony\\Patch_HediffSet_AddDirect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patch_Hediff_Psylink_PostAdd.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Hediff_Psylink_PostAdd.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_Hediff_Psylink_PostAdd.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Hediff_Psylink_PostAdd.cs",
+              "RelativeToolTip": "Harmony\\Patch_Hediff_Psylink_PostAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:05.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patch_Hediff_Psylink_ChangeLevel.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Hediff_Psylink_ChangeLevel.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_Hediff_Psylink_ChangeLevel.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Harmony\\Patch_Hediff_Psylink_ChangeLevel.cs",
+              "RelativeToolTip": "Harmony\\Patch_Hediff_Psylink_ChangeLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:05:01.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Psysight\\1.7\\Source\\Psysight\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:04:51.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

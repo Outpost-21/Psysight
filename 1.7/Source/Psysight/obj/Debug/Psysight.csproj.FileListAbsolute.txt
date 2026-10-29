@@ -1,0 +1,23 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModCategories\Neronix17\_SmallMods\Psysight\1.3\Assemblies\Psysight.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModCategories\Neronix17\_SmallMods\Psysight\1.3\Source\Psysight\obj\Debug\Psysight.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModCategories\Neronix17\_SmallMods\Psysight\1.3\Source\Psysight\obj\Debug\Psysight.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModCategories\Neronix17\_SmallMods\Psysight\1.3\Source\Psysight\obj\Debug\Psysight.dll
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.5\Source\Psysight\obj\Debug\Psysight.csproj.AssemblyReference.cache
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.5\Source\Psysight\obj\Debug\Psysight.csproj.CoreCompileInputs.cache
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.5\Source\Psysight\obj\Debug\Psysight.dll
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.5\Assemblies\Psysight.dll
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.6\Assemblies\Psysight.dll
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.6\Source\Psysight\obj\Debug\Psysight.csproj.AssemblyReference.cache
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.6\Source\Psysight\obj\Debug\Psysight.csproj.CoreCompileInputs.cache
+F:\RWModCategories\Neronix17\_SmallMods\Psysight\1.6\Source\Psysight\obj\Debug\Psysight.dll
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.csproj.AssemblyReference.cache
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.GeneratedMSBuildEditorConfig.editorconfig
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.AssemblyInfoInputs.cache
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.AssemblyInfo.cs
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.csproj.CoreCompileInputs.cache
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.sourcelink.json
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.dll
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Assemblies\Psysight.dll
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\refint\Psysight.dll
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\ref\Psysight.dll
+G:\RWModCategories\Neronix17\_SmallMods\Psysight\1.7\Source\Psysight\obj\Debug\Psysight.csproj.Up2Date
